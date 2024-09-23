@@ -1,4 +1,5 @@
 # TriTueNhanTao_Nhom6
-# Nguyen Ngoc Tiep 2280619056
-# Tran Tan Tai 2280602828
+## Tác giả
+- **Nguyễn Ngọc Tiệp** - *Developer*
+- **Trần Tấn Tài - *Contributor* 
 
